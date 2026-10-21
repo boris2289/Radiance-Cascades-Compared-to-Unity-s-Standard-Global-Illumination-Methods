@@ -45,6 +45,14 @@ Intel Core i7-13620H
 \## License
 
 
+## Future Improvements
 
+We plan to improve this project by:
+
+- Adding performance comparison charts
+- Improving dataset documentation
+- Creating automated analysis scripts
+- Adding visualization examples
+  
 MIT
 
